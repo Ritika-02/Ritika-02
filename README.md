@@ -45,7 +45,7 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="kaggle" alt=" " width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40"height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40"height="40"/>&nbsp;
-     <img src="https://skillicons.dev/icons?i=power-bi" title="Power BI" alt="Power BI" width="40"height="40"/>&nbsp;
+     <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" title="Power BI" alt="Power BI" width="40"height="40"/>&nbsp;
      
 </div>
 
