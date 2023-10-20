@@ -46,6 +46,7 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40"height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40"height="40"/>&nbsp;
      <img src="https://skillicons.dev/icons?i=your-power-bi-icon-url-here" title="Power BI" alt="Power BI" width="40"height="40"/>&nbsp;
+     <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="40"height="40"/>&nbsp;
 </div>
 
 <br/>
@@ -57,7 +58,6 @@
   <img width=390 src="https://streak-stats.demolab.com/?user=Ritika-02&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Ritika-02&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika-02&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </div>
 
 <br/><br/>
